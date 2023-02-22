@@ -1,0 +1,75 @@
+html, body {
+  margin: 0;
+ 
+  
+  
+
+}
+
+canvas {
+  display: block;
+}
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+align-items: center;
+font-size: 100px;
+text-shadow: 3px 3px 15px black ;
+color: rgb(3, 3, 3);
+font-style: italic;
+position: absolute;
+ top: 4px;
+ left: 50px;
+
+
+
+
+
+}
+
+h2{
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  align-items: left;
+  text-shadow: 3px 3px 15px black;
+  font-style: italic;
+  color: black;
+
+
+
+}
+.imagewow { 
+  margin-top: 0px;
+  
+  
+  
+  
+  
+
+
+}
+ 
+ 
+.iframemargin{
+  margin-left: 956px;
+  margin-top: -12000px;
+
+
+
+
+
+}
+p{
+  color: goldenrod;
+  font-size: 45px;
+
+    
+
+
+
+}
+
+
+
+
+
+
